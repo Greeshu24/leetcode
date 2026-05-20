@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Greeshu24/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Greeshu24/leetcode/tree/master/0069-sqrtx) |
+| [0670-maximum-swap](https://github.com/Greeshu24/leetcode/tree/master/0670-maximum-swap) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Greeshu24/leetcode/tree/master/0069-sqrtx) |
+## Greedy
+|  |
+| ------- |
+| [0670-maximum-swap](https://github.com/Greeshu24/leetcode/tree/master/0670-maximum-swap) |
 <!---LeetCode Topics End-->
