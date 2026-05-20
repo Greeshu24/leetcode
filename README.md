@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Greeshu24/leetcode/tree/master/0066-plus-one) |
+| [0283-move-zeroes](https://github.com/Greeshu24/leetcode/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Greeshu24/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0283-move-zeroes](https://github.com/Greeshu24/leetcode/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
