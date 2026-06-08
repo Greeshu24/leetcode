@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Greeshu24/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Greeshu24/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Greeshu24/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0705-design-hashset](https://github.com/Greeshu24/leetcode/tree/master/0705-design-hashset) |
 ## Recursion
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Greeshu24/leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Greeshu24/leetcode/tree/master/0118-pascals-triangle) |
 | [0283-move-zeroes](https://github.com/Greeshu24/leetcode/tree/master/0283-move-zeroes) |
+| [0705-design-hashset](https://github.com/Greeshu24/leetcode/tree/master/0705-design-hashset) |
 | [0729-my-calendar-i](https://github.com/Greeshu24/leetcode/tree/master/0729-my-calendar-i) |
 ## Math
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/Greeshu24/leetcode/tree/master/0705-design-hashset) |
 | [0729-my-calendar-i](https://github.com/Greeshu24/leetcode/tree/master/0729-my-calendar-i) |
 | [1603-design-parking-system](https://github.com/Greeshu24/leetcode/tree/master/1603-design-parking-system) |
 ## Segment Tree
@@ -69,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/Greeshu24/leetcode/tree/master/1603-design-parking-system) |
+## Hash Table
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Greeshu24/leetcode/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Greeshu24/leetcode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
