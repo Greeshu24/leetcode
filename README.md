@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0284-peeking-iterator](https://github.com/Greeshu24/leetcode/tree/master/0284-peeking-iterator) |
 | [0705-design-hashset](https://github.com/Greeshu24/leetcode/tree/master/0705-design-hashset) |
 | [0729-my-calendar-i](https://github.com/Greeshu24/leetcode/tree/master/0729-my-calendar-i) |
+| [1773-count-items-matching-a-rule](https://github.com/Greeshu24/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [2043-simple-bank-system](https://github.com/Greeshu24/leetcode/tree/master/2043-simple-bank-system) |
 | [2241-design-an-atm-machine](https://github.com/Greeshu24/leetcode/tree/master/2241-design-an-atm-machine) |
 | [2942-find-words-containing-character](https://github.com/Greeshu24/leetcode/tree/master/2942-find-words-containing-character) |
@@ -142,5 +143,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1773-count-items-matching-a-rule](https://github.com/Greeshu24/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [2942-find-words-containing-character](https://github.com/Greeshu24/leetcode/tree/master/2942-find-words-containing-character) |
 <!---LeetCode Topics End-->
