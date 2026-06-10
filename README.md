@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Greeshu24/leetcode/tree/master/0729-my-calendar-i) |
 | [2043-simple-bank-system](https://github.com/Greeshu24/leetcode/tree/master/2043-simple-bank-system) |
 | [2241-design-an-atm-machine](https://github.com/Greeshu24/leetcode/tree/master/2241-design-an-atm-machine) |
+| [2942-find-words-containing-character](https://github.com/Greeshu24/leetcode/tree/master/2942-find-words-containing-character) |
 ## Math
 |  |
 | ------- |
@@ -138,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Greeshu24/leetcode/tree/master/0933-number-of-recent-calls) |
+## String
+|  |
+| ------- |
+| [2942-find-words-containing-character](https://github.com/Greeshu24/leetcode/tree/master/2942-find-words-containing-character) |
 <!---LeetCode Topics End-->
