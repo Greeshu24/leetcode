@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/Greeshu24/leetcode/tree/master/0284-peeking-iterator) |
+| [0341-flatten-nested-list-iterator](https://github.com/Greeshu24/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0705-design-hashset](https://github.com/Greeshu24/leetcode/tree/master/0705-design-hashset) |
 | [0729-my-calendar-i](https://github.com/Greeshu24/leetcode/tree/master/0729-my-calendar-i) |
 | [1603-design-parking-system](https://github.com/Greeshu24/leetcode/tree/master/1603-design-parking-system) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Greeshu24/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Greeshu24/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Greeshu24/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0341-flatten-nested-list-iterator](https://github.com/Greeshu24/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 ## Tree
 |  |
 | ------- |
@@ -102,12 +104,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Greeshu24/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Greeshu24/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Greeshu24/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0341-flatten-nested-list-iterator](https://github.com/Greeshu24/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Greeshu24/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Greeshu24/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Greeshu24/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0341-flatten-nested-list-iterator](https://github.com/Greeshu24/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 ## Binary Tree
 |  |
 | ------- |
@@ -123,4 +127,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/Greeshu24/leetcode/tree/master/0284-peeking-iterator) |
+| [0341-flatten-nested-list-iterator](https://github.com/Greeshu24/leetcode/tree/master/0341-flatten-nested-list-iterator) |
+## Queue
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Greeshu24/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
