@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/Greeshu24/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0705-design-hashset](https://github.com/Greeshu24/leetcode/tree/master/0705-design-hashset) |
 | [0729-my-calendar-i](https://github.com/Greeshu24/leetcode/tree/master/0729-my-calendar-i) |
+| [0933-number-of-recent-calls](https://github.com/Greeshu24/leetcode/tree/master/0933-number-of-recent-calls) |
 | [1603-design-parking-system](https://github.com/Greeshu24/leetcode/tree/master/1603-design-parking-system) |
 | [2043-simple-bank-system](https://github.com/Greeshu24/leetcode/tree/master/2043-simple-bank-system) |
 | [2241-design-an-atm-machine](https://github.com/Greeshu24/leetcode/tree/master/2241-design-an-atm-machine) |
@@ -132,4 +133,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/Greeshu24/leetcode/tree/master/0341-flatten-nested-list-iterator) |
+| [0933-number-of-recent-calls](https://github.com/Greeshu24/leetcode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Greeshu24/leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
