@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Greeshu24/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Greeshu24/leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Greeshu24/leetcode/tree/master/0118-pascals-triangle) |
 | [0283-move-zeroes](https://github.com/Greeshu24/leetcode/tree/master/0283-move-zeroes) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Greeshu24/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Greeshu24/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0283-move-zeroes](https://github.com/Greeshu24/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Greeshu24/leetcode/tree/master/0349-intersection-of-two-arrays) |
