@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Greeshu24/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Greeshu24/leetcode/tree/master/0069-sqrtx) |
 | [0670-maximum-swap](https://github.com/Greeshu24/leetcode/tree/master/0670-maximum-swap) |
+| [1025-divisor-game](https://github.com/Greeshu24/leetcode/tree/master/1025-divisor-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Greeshu24/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Greeshu24/leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Greeshu24/leetcode/tree/master/0118-pascals-triangle) |
+| [1025-divisor-game](https://github.com/Greeshu24/leetcode/tree/master/1025-divisor-game) |
 ## Design
 |  |
 | ------- |
@@ -199,4 +201,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Greeshu24/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Greeshu24/leetcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Greeshu24/leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
