@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Greeshu24/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1603-design-parking-system](https://github.com/Greeshu24/leetcode/tree/master/1603-design-parking-system) |
 ## Hash Table
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Greeshu24/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/Greeshu24/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Greeshu24/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Greeshu24/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0705-design-hashset](https://github.com/Greeshu24/leetcode/tree/master/0705-design-hashset) |
 | [0997-find-the-town-judge](https://github.com/Greeshu24/leetcode/tree/master/0997-find-the-town-judge) |
 | [1436-destination-city](https://github.com/Greeshu24/leetcode/tree/master/1436-destination-city) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/Greeshu24/leetcode/tree/master/0341-flatten-nested-list-iterator) |
+| [0387-first-unique-character-in-a-string](https://github.com/Greeshu24/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/Greeshu24/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Greeshu24/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0242-valid-anagram](https://github.com/Greeshu24/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Greeshu24/leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Greeshu24/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1436-destination-city](https://github.com/Greeshu24/leetcode/tree/master/1436-destination-city) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Greeshu24/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1773-count-items-matching-a-rule](https://github.com/Greeshu24/leetcode/tree/master/1773-count-items-matching-a-rule) |
