@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Greeshu24/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Greeshu24/leetcode/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/Greeshu24/leetcode/tree/master/0258-add-digits) |
 | [0670-maximum-swap](https://github.com/Greeshu24/leetcode/tree/master/0670-maximum-swap) |
 | [1025-divisor-game](https://github.com/Greeshu24/leetcode/tree/master/1025-divisor-game) |
 ## Two Pointers
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Greeshu24/leetcode/tree/master/0258-add-digits) |
 | [1603-design-parking-system](https://github.com/Greeshu24/leetcode/tree/master/1603-design-parking-system) |
 | [2043-simple-bank-system](https://github.com/Greeshu24/leetcode/tree/master/2043-simple-bank-system) |
 ## Counting
@@ -236,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/Greeshu24/leetcode/tree/master/0997-find-the-town-judge) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Greeshu24/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
