@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Greeshu24/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Greeshu24/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Greeshu24/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0443-string-compression](https://github.com/Greeshu24/leetcode/tree/master/0443-string-compression) |
 ## Binary Search
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Greeshu24/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Greeshu24/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Greeshu24/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/Greeshu24/leetcode/tree/master/0443-string-compression) |
 | [1436-destination-city](https://github.com/Greeshu24/leetcode/tree/master/1436-destination-city) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Greeshu24/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1773-count-items-matching-a-rule](https://github.com/Greeshu24/leetcode/tree/master/1773-count-items-matching-a-rule) |
