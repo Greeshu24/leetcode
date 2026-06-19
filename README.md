@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Greeshu24/leetcode/tree/master/0705-design-hashset) |
 | [0997-find-the-town-judge](https://github.com/Greeshu24/leetcode/tree/master/0997-find-the-town-judge) |
 | [1436-destination-city](https://github.com/Greeshu24/leetcode/tree/master/1436-destination-city) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Greeshu24/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2043-simple-bank-system](https://github.com/Greeshu24/leetcode/tree/master/2043-simple-bank-system) |
 ## Hash Function
 |  |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/Greeshu24/leetcode/tree/master/1436-destination-city) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Greeshu24/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1773-count-items-matching-a-rule](https://github.com/Greeshu24/leetcode/tree/master/1773-count-items-matching-a-rule) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Greeshu24/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2942-find-words-containing-character](https://github.com/Greeshu24/leetcode/tree/master/2942-find-words-containing-character) |
 ## Sorting
 |  |
