@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Greeshu24/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Greeshu24/leetcode/tree/master/0027-remove-element) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Greeshu24/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/Greeshu24/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Greeshu24/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Greeshu24/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Greeshu24/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Greeshu24/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Greeshu24/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0076-minimum-window-substring](https://github.com/Greeshu24/leetcode/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/Greeshu24/leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Greeshu24/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Greeshu24/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Greeshu24/leetcode/tree/master/0344-reverse-string) |
