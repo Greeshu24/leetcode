@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Greeshu24/leetcode/tree/master/0729-my-calendar-i) |
 | [0997-find-the-town-judge](https://github.com/Greeshu24/leetcode/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/Greeshu24/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Greeshu24/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1436-destination-city](https://github.com/Greeshu24/leetcode/tree/master/1436-destination-city) |
 | [1773-count-items-matching-a-rule](https://github.com/Greeshu24/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [2043-simple-bank-system](https://github.com/Greeshu24/leetcode/tree/master/2043-simple-bank-system) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Greeshu24/leetcode/tree/master/0704-binary-search) |
 | [0729-my-calendar-i](https://github.com/Greeshu24/leetcode/tree/master/0729-my-calendar-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Greeshu24/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Greeshu24/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Greedy
 |  |
 | ------- |
