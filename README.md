@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Greeshu24/leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Greeshu24/leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Greeshu24/leetcode/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/Greeshu24/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Greeshu24/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Greeshu24/leetcode/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/Greeshu24/leetcode/tree/master/0284-peeking-iterator) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Greeshu24/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Greeshu24/leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Greeshu24/leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Greeshu24/leetcode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/Greeshu24/leetcode/tree/master/0367-valid-perfect-square) |
 | [0670-maximum-swap](https://github.com/Greeshu24/leetcode/tree/master/0670-maximum-swap) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Greeshu24/leetcode/tree/master/0027-remove-element) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Greeshu24/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/Greeshu24/leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Greeshu24/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Greeshu24/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Greeshu24/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Greeshu24/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
