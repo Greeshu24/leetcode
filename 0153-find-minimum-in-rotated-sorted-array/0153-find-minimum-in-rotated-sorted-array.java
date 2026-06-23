@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
     public int findMin(int[] arr) {
         int pivot=findPivot(arr);
         if(pivot==-1){
@@ -26,4 +26,18 @@ class Solution {
         }
         return -1;
     }
+}*/
+class Solution {
+    public int findMin(int[] arr) {
+        int s=0;
+        int e=arr.length-1;
+        while(s<=e){
+            int mid=(s+e)/2;
+            if(arr[mid]>=arr[e])
+            s=mid+1;
+            else
+            e=mid;
+        }
+    return arr[e];
+}
 }
