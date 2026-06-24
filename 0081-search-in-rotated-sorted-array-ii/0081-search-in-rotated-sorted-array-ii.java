@@ -50,7 +50,7 @@ class Solution {
 
         while (s <= e) {
 
-            int mid = s + (e - s) / 2;
+            int mid = (s + e)  / 2;
 
             if (nums[mid] == target) {
                 return true;
