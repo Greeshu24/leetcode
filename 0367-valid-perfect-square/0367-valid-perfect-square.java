@@ -19,3 +19,15 @@ class Solution {
         return false;
     }
 }
+/*class Solution {
+    public boolean isPerfectSquare(int num) {
+       for(int i=0;i<num;i++){
+        int ans=i*i;
+        if(num==ans){
+            return true;
+        }
+       }
+       return false;
+        
+    }
+}*/
