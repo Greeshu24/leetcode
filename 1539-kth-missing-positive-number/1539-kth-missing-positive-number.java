@@ -1,23 +1,20 @@
 class Solution {
     public int findKthPositive(int[] arr, int k) {
-        int n =  arr[arr.length-1]+k;
-        boolean[] p = new boolean[n+1];
+        boolean[] p = new boolean[2001];
         for(int num:arr)
         {
             p[num] = true;
         }
         int count = 0;
-        for(int i=1;i<=n;i++)
+        for(int i=1;i<p.length;i++)
         {
-            if (!p[i]) {
+            if (p[i]==false) {
                 count++;
-
+            }
                 if (count == k) {
                     return i;
                 }
             }
-        }
-
-        return -1;
+        return 0;
     }
 }
