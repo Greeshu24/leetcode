@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Greeshu24/leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Greeshu24/leetcode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/Greeshu24/leetcode/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/Greeshu24/leetcode/tree/master/0415-add-strings) |
 | [0670-maximum-swap](https://github.com/Greeshu24/leetcode/tree/master/0670-maximum-swap) |
 | [1025-divisor-game](https://github.com/Greeshu24/leetcode/tree/master/1025-divisor-game) |
 ## Two Pointers
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Greeshu24/leetcode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/Greeshu24/leetcode/tree/master/0415-add-strings) |
 | [1603-design-parking-system](https://github.com/Greeshu24/leetcode/tree/master/1603-design-parking-system) |
 | [2043-simple-bank-system](https://github.com/Greeshu24/leetcode/tree/master/2043-simple-bank-system) |
 | [3612-process-string-with-special-operations-i](https://github.com/Greeshu24/leetcode/tree/master/3612-process-string-with-special-operations-i) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Greeshu24/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Greeshu24/leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Greeshu24/leetcode/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/Greeshu24/leetcode/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Greeshu24/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Greeshu24/leetcode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Greeshu24/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
