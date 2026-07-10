@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Greeshu24/leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Greeshu24/leetcode/tree/master/0705-design-hashset) |
 | [0729-my-calendar-i](https://github.com/Greeshu24/leetcode/tree/master/0729-my-calendar-i) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Greeshu24/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Greeshu24/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0997-find-the-town-judge](https://github.com/Greeshu24/leetcode/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/Greeshu24/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Greeshu24/leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Greeshu24/leetcode/tree/master/0704-binary-search) |
 | [0729-my-calendar-i](https://github.com/Greeshu24/leetcode/tree/master/0729-my-calendar-i) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Greeshu24/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Greeshu24/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Greeshu24/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Greeshu24/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
