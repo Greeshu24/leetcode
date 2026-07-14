@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Greeshu24/leetcode/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/Greeshu24/leetcode/tree/master/0284-peeking-iterator) |
 | [0349-intersection-of-two-arrays](https://github.com/Greeshu24/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/Greeshu24/leetcode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/Greeshu24/leetcode/tree/master/0506-relative-ranks) |
 | [0643-maximum-average-subarray-i](https://github.com/Greeshu24/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Greeshu24/leetcode/tree/master/0704-binary-search) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Greeshu24/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Greeshu24/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Greeshu24/leetcode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/Greeshu24/leetcode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/Greeshu24/leetcode/tree/master/0506-relative-ranks) |
 | [1122-relative-sort-array](https://github.com/Greeshu24/leetcode/tree/master/1122-relative-sort-array) |
 ## Divide and Conquer
