@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Greeshu24/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Greeshu24/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Greeshu24/leetcode/tree/master/0014-longest-common-prefix) |
+| [0038-count-and-say](https://github.com/Greeshu24/leetcode/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/Greeshu24/leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Greeshu24/leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Greeshu24/leetcode/tree/master/0205-isomorphic-strings) |
