@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Greeshu24/leetcode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/Greeshu24/leetcode/tree/master/0506-relative-ranks) |
 | [0643-maximum-average-subarray-i](https://github.com/Greeshu24/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/Greeshu24/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0704-binary-search](https://github.com/Greeshu24/leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Greeshu24/leetcode/tree/master/0705-design-hashset) |
 | [0729-my-calendar-i](https://github.com/Greeshu24/leetcode/tree/master/0729-my-calendar-i) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Greeshu24/leetcode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/Greeshu24/leetcode/tree/master/0409-longest-palindrome) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/Greeshu24/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0670-maximum-swap](https://github.com/Greeshu24/leetcode/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/Greeshu24/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [2241-design-an-atm-machine](https://github.com/Greeshu24/leetcode/tree/master/2241-design-an-atm-machine) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Greeshu24/leetcode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Greeshu24/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Greeshu24/leetcode/tree/master/0567-permutation-in-string) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/Greeshu24/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0705-design-hashset](https://github.com/Greeshu24/leetcode/tree/master/0705-design-hashset) |
 | [0997-find-the-town-judge](https://github.com/Greeshu24/leetcode/tree/master/0997-find-the-town-judge) |
 | [1122-relative-sort-array](https://github.com/Greeshu24/leetcode/tree/master/1122-relative-sort-array) |
@@ -353,4 +356,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Greeshu24/leetcode/tree/master/0506-relative-ranks) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/Greeshu24/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 <!---LeetCode Topics End-->
