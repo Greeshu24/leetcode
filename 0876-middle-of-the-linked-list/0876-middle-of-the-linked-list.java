@@ -8,7 +8,7 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution {
+/*class Solution {
     public ListNode middleNode(ListNode head) {
         ListNode first=head;
         ListNode second=head;
@@ -17,5 +17,21 @@ class Solution {
             second=second.next.next;
         }
         return first;
+    }
+}*/
+class Solution {
+    public ListNode middleNode(ListNode head) {
+        ListNode cur=head;
+        ListNode cur1=head;
+        int count=0;
+        while(cur!=null){
+            count++;
+            cur=cur.next;
+        }
+        int x=count/2;
+        for(int i=0;i<x;i++){
+            cur1=cur1.next;
+        }
+        return cur1;
     }
 }
